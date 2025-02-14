@@ -1,8 +1,6 @@
 kaggle
-matplotlib
-numpy
-opencv-python
 pandas
 pydot
+scikit-image
 scikit-learn
-tqdm
+seaborn

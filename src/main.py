@@ -41,7 +41,7 @@ def label_dataset():
 
 
 def download_dataset():
-    with open('src/utils/download_dataset.py') as f:
+    with open('src\scripts\download_dataset.py') as f:
         code = f.read()
         exec(code, globals())
 
